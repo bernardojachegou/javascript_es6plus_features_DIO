@@ -51,12 +51,17 @@ const it2 = obj1[Symbol.iterator]();
 console.log(it2.next());
 
 // =================== GENERATORS ===================
-
-function hello() {
+// A generator is a function that can stop midway and then continue from where it stopped;
+// Used to construct meta-properties;
+function* hello() {
     console.log("Hello");
+    yield;
     console.log("From");
+    yield;
     console.log("Functions");
 }
 
-hello();
+const it3 = hello();
 
+console.log(it3.next());
+console.log(it3.next());
