@@ -1,0 +1,20 @@
+{
+  "name": "javascript_advanced_DIO",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bernardojachegou/javascript_es6plus_features_DIO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bernardojachegou/javascript_es6plus_features_DIO/issues"
+  },
+  "homepage": "https://github.com/bernardojachegou/javascript_es6plus_features_DIO#readme",
+  "description": ""
+}
