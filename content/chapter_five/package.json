@@ -1,9 +1,9 @@
 {
-  "name": "javascript_advanced_DIO",
+  "name": "javascript_advanced_dio",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,10 @@
     "url": "https://github.com/bernardojachegou/javascript_es6plus_features_DIO/issues"
   },
   "homepage": "https://github.com/bernardojachegou/javascript_es6plus_features_DIO#readme",
-  "description": ""
+  "description": "<h1 align=\"center\">\r     <img alt=\"preview application\" src=\"https://bognarjunior.files.wordpress.com/2018/01/1crcyaithv7aiqh1z93v99q.png?w=256\" width=\"200px\"/>\r </h1>",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1",
+    "sinon": "^9.0.2"
+  }
 }
