@@ -1,4 +1,4 @@
-// Array without destructuring assignments;
+// Using array without destructuring assignments;
 const arr = ['Apple', 'Banana', 'Grape', ['Orange']];
 
 const selectedFruit = arr[0];

@@ -10,7 +10,7 @@ var oldSum = function (a, b) {
 }
 
 // =================== ARROW FUNCTION ===================
-// Arrow Function (basic);
+// Arrow Function (basic mode);
 var sum = (a, b) => {
     return a + b
 };

@@ -30,6 +30,25 @@ JavaScript ES6+ Avançado - Digital Innovation One
  <ul>
   <li>Symbols and Generators</li>
  </ul>
+
+   ### Aula 04
+ <ul>
+  <li>Callbacks and Promises</li>
+  <li>Async/Await</li>
+  <li>Event Emmiter</li>
+ </ul>
+
+   ### Aula 05
+ <ul>
+  <li>TDD and BDD</li>
+  <li>Using Mocha, Chai and Sinon</li>
+ </ul>
+
+   ### Aula 06
+ <ul>
+  <li>Debugging informations</li>
+  <li>Console Methods</li>
+ </ul>
  
 
 ## :computer: Rodando o projeto:

@@ -4,7 +4,7 @@ const obj = {
     [uniqueId]: "Hello again!"
 }
 
-// Symbols: Well-known properties;
+// Symbols: Well-known properties/methods;
 Symbol.iterator;
 Symbol.split;
 Symbol.toStringTag;
