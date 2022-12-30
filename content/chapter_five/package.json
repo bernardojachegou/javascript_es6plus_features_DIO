@@ -19,7 +19,7 @@
   "description": "<h1 align=\"center\">\r     <img alt=\"preview application\" src=\"https://bognarjunior.files.wordpress.com/2018/01/1crcyaithv7aiqh1z93v99q.png?w=256\" width=\"200px\"/>\r </h1>",
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^8.0.1",
+    "mocha": "^8.4.0",
     "sinon": "^9.0.2"
   }
 }
